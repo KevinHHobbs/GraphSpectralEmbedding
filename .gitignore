@@ -1,0 +1,7 @@
+*.swp
+CMakeCache.txt
+CMakeFiles
+*~
+GraphSpectralEmbedding
+cmake_install.cmake
+
